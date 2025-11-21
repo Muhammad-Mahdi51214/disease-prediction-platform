@@ -1,0 +1,17 @@
+{
+  "name": "disease-prediction-website",
+  "version": "1.0.0",
+  "description": "This is online platform where you can enter your medical details to get to know whether you have that disease or not",
+  "keywords": [
+    "ML",
+    "dieaase",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Muhammad Mahdi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
